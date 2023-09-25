@@ -2,7 +2,7 @@
 Script ini untuk semua orang, bukan untuk Dijual.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<h1 align="center">Ozii || Fureya MD</h1>
+<h1 align="center">Ozii || Fureya MD V1</h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/5361453b7995459b67357.jpg" alt="ALPHA" width="200"/>
